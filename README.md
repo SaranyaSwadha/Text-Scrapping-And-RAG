@@ -1,6 +1,7 @@
 # Text-Scrapping-And-RAG
 
 # 🔍 AI-Powered Web Scraping & Q&A System
+![image](https://github.com/user-attachments/assets/ec38195c-ba19-4ff9-b4da-a0df7b7ebfdb)
 
 This project is a **Streamlit-based  Q&A system** that:
 - Scrapes text from a given URL.
@@ -33,7 +34,7 @@ This project is a **Streamlit-based  Q&A system** that:
 ---
 
 ## ⚙️ **How It Works**
-![image](https://github.com/user-attachments/assets/ec38195c-ba19-4ff9-b4da-a0df7b7ebfdb)
+
 
 
 
