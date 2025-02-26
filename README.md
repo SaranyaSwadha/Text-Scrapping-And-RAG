@@ -33,6 +33,10 @@ This project is a **Streamlit-based  Q&A system** that:
 ---
 
 ## ⚙️ **How It Works**
+![image](https://github.com/user-attachments/assets/ec38195c-ba19-4ff9-b4da-a0df7b7ebfdb)
+
+
+
 
 ### **1️⃣ Install Dependencies**
 Make sure you have the required Python packages installed:
